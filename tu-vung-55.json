@@ -1,0 +1,247 @@
+[
+    {
+        "korean": "안전 장비",
+        "vietnamese": "Thiết bị an toàn",
+        "audio": "tu-vung-55-1.mp3"
+    },
+    {
+        "korean": "공통",
+        "vietnamese": "Thông thường, chung chung",
+        "audio": "tu-vung-55-2.mp3"
+    },
+    {
+        "korean": "안전모",
+        "vietnamese": "Mũ bảo hộ",
+        "audio": "tu-vung-55-3.mp3"
+    },
+    {
+        "korean": "안전장갑",
+        "vietnamese": "Găng tay an toàn",
+        "audio": "tu-vung-55-4.mp3"
+    },
+    {
+        "korean": "안전화",
+        "vietnamese": "Giầy an toàn",
+        "audio": "tu-vung-55-5.mp3"
+    },
+    {
+        "korean": "작업복",
+        "vietnamese": "Bảo hộ lao động",
+        "audio": "tu-vung-55-6.mp3"
+    },
+    {
+        "korean": "안전대",
+        "vietnamese": "Dây an toàn",
+        "audio": "tu-vung-55-7.mp3"
+    },
+    {
+        "korean": "특화",
+        "vietnamese": "Chuyên, dùng riêng",
+        "audio": "tu-vung-55-8.mp3"
+    },
+    {
+        "korean": "농약 방제복",
+        "vietnamese": "Bảo hộ phun thuốc trừ sâu",
+        "audio": "tu-vung-55-9.mp3"
+    },
+    {
+        "korean": "축산 작업복",
+        "vietnamese": "Bảo hộ cho chăn nuôi",
+        "audio": "tu-vung-55-10.mp3"
+    },
+    {
+        "korean": "안면 보호구",
+        "vietnamese": "Bảo vệ mặt",
+        "audio": "tu-vung-55-11.mp3"
+    },
+    {
+        "korean": "용접면",
+        "vietnamese": "Mặt nạ hàn",
+        "audio": "tu-vung-55-12.mp3"
+    },
+    {
+        "korean": "보안경",
+        "vietnamese": "Kính bảo hộ",
+        "audio": "tu-vung-55-13.mp3"
+    },
+    {
+        "korean": "방진 마스크",
+        "vietnamese": "Khẩu trang phòng bụi",
+        "audio": "tu-vung-55-14.mp3"
+    },
+    {
+        "korean": "방독 마스크",
+        "vietnamese": "Khẩu trang phòng độc",
+        "audio": "tu-vung-55-15.mp3"
+    },
+    {
+        "korean": "송기 마스크",
+        "vietnamese": "Khẩu trang dưỡng khí",
+        "audio": "tu-vung-55-16.mp3"
+    },
+    {
+        "korean": "귀마개",
+        "vietnamese": "Nút bịt tai",
+        "audio": "tu-vung-55-17.mp3"
+    },
+    {
+        "korean": "귀덮개",
+        "vietnamese": "Chụp tai chống ồn",
+        "audio": "tu-vung-55-18.mp3"
+    },
+    {
+        "korean": "진행하다",
+        "vietnamese": "Tiến hành, thực hiện",
+        "audio": "tu-vung-55-19.mp3"
+    },
+    {
+        "korean": "무릎보호대",
+        "vietnamese": "Bảo vệ đầu gối",
+        "audio": "tu-vung-55-20.mp3"
+    },
+    {
+        "korean": "구명조끼",
+        "vietnamese": "Áo phao cứu sinh",
+        "audio": "tu-vung-55-21.mp3"
+    },
+    {
+        "korean": "오븐 장갑",
+        "vietnamese": "Găng tay cách nhiệt",
+        "audio": "tu-vung-55-22.mp3"
+    },
+    {
+        "korean": "절단방지 장갑",
+        "vietnamese": "Găng tay chống cắt",
+        "audio": "tu-vung-55-23.mp3"
+    },
+    {
+        "korean": "방수 앞치마",
+        "vietnamese": "Tạp dề chống nước",
+        "audio": "tu-vung-55-24.mp3"
+    },
+    {
+        "korean": "LED 램프",
+        "vietnamese": "Đèn LED",
+        "audio": "tu-vung-55-25.mp3"
+    },
+    {
+        "korean": "절연용 보호구",
+        "vietnamese": "Dụng cụ bảo hộ cách điện",
+        "audio": "tu-vung-55-26.mp3"
+    },
+    {
+        "korean": "절연 안전모",
+        "vietnamese": "Mũ cách điện",
+        "audio": "tu-vung-55-27.mp3"
+    },
+    {
+        "korean": "절연 장화",
+        "vietnamese": "Ủng cách điện",
+        "audio": "tu-vung-55-28.mp3"
+    },
+    {
+        "korean": "절연 장갑",
+        "vietnamese": "Găng tay cách điện",
+        "audio": "tu-vung-55-29.mp3"
+    },
+    {
+        "korean": "전기",
+        "vietnamese": "Điện",
+        "audio": "tu-vung-55-30.mp3"
+    },
+    {
+        "korean": "몸",
+        "vietnamese": "Cơ thể",
+        "audio": "tu-vung-55-31.mp3"
+    },
+    {
+        "korean": "흐르다",
+        "vietnamese": "Rò rỉ",
+        "audio": "tu-vung-55-32.mp3"
+    },
+    {
+        "korean": "막다",
+        "vietnamese": "Ngăn chặn",
+        "audio": "tu-vung-55-33.mp3"
+    },
+    {
+        "korean": "방열 보호구",
+        "vietnamese": "Dụng cụ cách nhiệt",
+        "audio": "tu-vung-55-34.mp3"
+    },
+    {
+        "korean": "보호하다",
+        "vietnamese": "Bảo hộ",
+        "audio": "tu-vung-55-35.mp3"
+    },
+    {
+        "korean": "방열두건",
+        "vietnamese": "Mũ chùm chống nhiệt",
+        "audio": "tu-vung-55-36.mp3"
+    },
+    {
+        "korean": "방열상의",
+        "vietnamese": "Áo chống chiệt",
+        "audio": "tu-vung-55-37.mp3"
+    },
+    {
+        "korean": "방열하의",
+        "vietnamese": "Quần chống chiệt",
+        "audio": "tu-vung-55-38.mp3"
+    },
+    {
+        "korean": "방열장갑",
+        "vietnamese": "Găng tay chống chiệt",
+        "audio": "tu-vung-55-39.mp3"
+    },
+    {
+        "korean": "방열장화",
+        "vietnamese": "Ủng chống chiệt",
+        "audio": "tu-vung-55-40.mp3"
+    },
+    {
+        "korean": "위생 보호구",
+        "vietnamese": "Đồ bảo hộ vệ sinh",
+        "audio": "tu-vung-55-41.mp3"
+    },
+    {
+        "korean": "위생복",
+        "vietnamese": "Áo vệ sinh",
+        "audio": "tu-vung-55-42.mp3"
+    },
+    {
+        "korean": "위생장갑",
+        "vietnamese": "Găng tay vệ sinh",
+        "audio": "tu-vung-55-43.mp3"
+    },
+    {
+        "korean": "위생장화",
+        "vietnamese": "Ủng vệ sinh",
+        "audio": "tu-vung-55-44.mp3"
+    },
+    {
+        "korean": "위생모",
+        "vietnamese": "Mũ vệ sinh",
+        "audio": "tu-vung-55-45.mp3"
+    },
+    {
+        "korean": "위생마스크",
+        "vietnamese": "Khẩu trang vệ sinh",
+        "audio": "tu-vung-55-46.mp3"
+    },
+    {
+        "korean": "열처리 작업",
+        "vietnamese": "Công việc xử lý nhiệt",
+        "audio": "tu-vung-55-47.mp3"
+    },
+    {
+        "korean": "평소",
+        "vietnamese": "Lúc bình thường",
+        "audio": "tu-vung-55-48.mp3"
+    },
+    {
+        "korean": "화상을 입다",
+        "vietnamese": "Bị bỏng",
+        "audio": "tu-vung-55-49.mp3"
+    }
+]

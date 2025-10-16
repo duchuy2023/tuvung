@@ -1,0 +1,257 @@
+[
+    {
+        "korean": "선체 건조(선체 구조)",
+        "vietnamese": "Cấu trúc thân tàu",
+        "audio": "tu-vung-48-1.mp3"
+    },
+    {
+        "korean": "선박",
+        "vietnamese": "Tàu thủy",
+        "audio": "tu-vung-48-2.mp3"
+    },
+    {
+        "korean": "도장",
+        "vietnamese": "Công việc sơn",
+        "audio": "tu-vung-48-3.mp3"
+    },
+    {
+        "korean": "조타실",
+        "vietnamese": "Khoang lái",
+        "audio": "tu-vung-48-4.mp3"
+    },
+    {
+        "korean": "선원실",
+        "vietnamese": "Khoang thủy thủ",
+        "audio": "tu-vung-48-5.mp3"
+    },
+    {
+        "korean": "갑판",
+        "vietnamese": "Boong tàu",
+        "audio": "tu-vung-48-6.mp3"
+    },
+    {
+        "korean": "프로펠러",
+        "vietnamese": "Chân vịt",
+        "audio": "tu-vung-48-7.mp3"
+    },
+    {
+        "korean": "선수부",
+        "vietnamese": "Mũi tàu",
+        "audio": "tu-vung-48-8.mp3"
+    },
+    {
+        "korean": "중앙부",
+        "vietnamese": "Thân tàu",
+        "audio": "tu-vung-48-9.mp3"
+    },
+    {
+        "korean": "선미부",
+        "vietnamese": "Đuôi tàu",
+        "audio": "tu-vung-48-10.mp3"
+    },
+    {
+        "korean": "변색",
+        "vietnamese": "Đổi màu",
+        "audio": "tu-vung-48-11.mp3"
+    },
+    {
+        "korean": "균열",
+        "vietnamese": "Vết nứt",
+        "audio": "tu-vung-48-12.mp3"
+    },
+    {
+        "korean": "녹",
+        "vietnamese": "Rỉ sét",
+        "audio": "tu-vung-48-13.mp3"
+    },
+    {
+        "korean": "에어 스프레이 건",
+        "vietnamese": "Súng phun khí",
+        "audio": "tu-vung-48-14.mp3"
+    },
+    {
+        "korean": "에어리스 스프레이 건",
+        "vietnamese": "Súng phun chân không",
+        "audio": "tu-vung-48-15.mp3"
+    },
+    {
+        "korean": "페인트 호스",
+        "vietnamese": "Dây sơn",
+        "audio": "tu-vung-48-16.mp3"
+    },
+    {
+        "korean": "에어리스 스프레이 펌프",
+        "vietnamese": "Bơm phun chân không",
+        "audio": "tu-vung-48-17.mp3"
+    },
+    {
+        "korean": "물기",
+        "vietnamese": "Hơi nước, ẩm",
+        "audio": "tu-vung-48-18.mp3"
+    },
+    {
+        "korean": "부식",
+        "vietnamese": "Sự ăn mòn",
+        "audio": "tu-vung-48-19.mp3"
+    },
+    {
+        "korean": "면적",
+        "vietnamese": "Diện tích, bề mặt",
+        "audio": "tu-vung-48-20.mp3"
+    },
+    {
+        "korean": "골고루",
+        "vietnamese": "Đồng đều",
+        "audio": "tu-vung-48-21.mp3"
+    },
+    {
+        "korean": "분사하다",
+        "vietnamese": "Phun",
+        "audio": "tu-vung-48-22.mp3"
+    },
+    {
+        "korean": "매끄럽다",
+        "vietnamese": "Nhẵn",
+        "audio": "tu-vung-48-23.mp3"
+    },
+    {
+        "korean": "마무리하다",
+        "vietnamese": "Làm hết, làm xong",
+        "audio": "tu-vung-48-24.mp3"
+    },
+    {
+        "korean": "금이 가다",
+        "vietnamese": "Nứt, vỡ",
+        "audio": "tu-vung-48-25.mp3"
+    },
+    {
+        "korean": "강관",
+        "vietnamese": "Ống thép",
+        "audio": "tu-vung-48-26.mp3"
+    },
+    {
+        "korean": "비계",
+        "vietnamese": "Giàn giáo",
+        "audio": "tu-vung-48-27.mp3"
+    },
+    {
+        "korean": "설치",
+        "vietnamese": "Lắp đặt",
+        "audio": "tu-vung-48-28.mp3"
+    },
+    {
+        "korean": "장선",
+        "vietnamese": "Thanh ngang, xà ngang",
+        "audio": "tu-vung-48-29.mp3"
+    },
+    {
+        "korean": "띠장",
+        "vietnamese": "Thanh đỡ chịu lực",
+        "audio": "tu-vung-48-30.mp3"
+    },
+    {
+        "korean": "밑받침 철물",
+        "vietnamese": "Đệm đỡ bên dưới, kê chân giáo",
+        "audio": "tu-vung-48-31.mp3"
+    },
+    {
+        "korean": "밑둥잡이",
+        "vietnamese": "Thanh cố định chân cột",
+        "audio": "tu-vung-48-32.mp3"
+    },
+    {
+        "korean": "비계기둥",
+        "vietnamese": "Cột giáo",
+        "audio": "tu-vung-48-33.mp3"
+    },
+    {
+        "korean": "안전난간",
+        "vietnamese": "Lan can an toàn",
+        "audio": "tu-vung-48-34.mp3"
+    },
+    {
+        "korean": "작업발판",
+        "vietnamese": "Sàn làm việc",
+        "audio": "tu-vung-48-35.mp3"
+    },
+    {
+        "korean": "가새",
+        "vietnamese": "Thanh giằng chéo",
+        "audio": "tu-vung-48-36.mp3"
+    },
+    {
+        "korean": "깔판",
+        "vietnamese": "Lót sàn",
+        "audio": "tu-vung-48-37.mp3"
+    },
+    {
+        "korean": "안전 로프",
+        "vietnamese": "Dây an toàn",
+        "audio": "tu-vung-48-38.mp3"
+    },
+    {
+        "korean": "수평",
+        "vietnamese": "Ngang",
+        "audio": "tu-vung-48-39.mp3"
+    },
+    {
+        "korean": "수직",
+        "vietnamese": "Thẳng",
+        "audio": "tu-vung-48-40.mp3"
+    },
+    {
+        "korean": "대각선",
+        "vietnamese": "Chéo",
+        "audio": "tu-vung-48-41.mp3"
+    },
+    {
+        "korean": "안정성",
+        "vietnamese": "Tính cố định, ổn định",
+        "audio": "tu-vung-48-42.mp3"
+    },
+    {
+        "korean": "지지대",
+        "vietnamese": "Thanh trống, giá đỡ",
+        "audio": "tu-vung-48-43.mp3"
+    },
+    {
+        "korean": "세우다",
+        "vietnamese": "Xây dựng, thiết lập",
+        "audio": "tu-vung-48-44.mp3"
+    },
+    {
+        "korean": "임시로",
+        "vietnamese": "Tạm thời",
+        "audio": "tu-vung-48-45.mp3"
+    },
+    {
+        "korean": "구조물",
+        "vietnamese": "Kết cấu",
+        "audio": "tu-vung-48-46.mp3"
+    },
+    {
+        "korean": "능률",
+        "vietnamese": "Năng suất",
+        "audio": "tu-vung-48-47.mp3"
+    },
+    {
+        "korean": "고객",
+        "vietnamese": "Khách hàng",
+        "audio": "tu-vung-48-48.mp3"
+    },
+    {
+        "korean": "품질",
+        "vietnamese": "Chất lượng sản phẩm",
+        "audio": "tu-vung-48-49.mp3"
+    },
+    {
+        "korean": "정기적",
+        "vietnamese": "Tính định kỳ",
+        "audio": "tu-vung-48-50.mp3"
+    },
+    {
+        "korean": "고장",
+        "vietnamese": "Hỏng",
+        "audio": "tu-vung-48-51.mp3"
+    }
+]

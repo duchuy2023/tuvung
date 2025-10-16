@@ -1,0 +1,272 @@
+[
+    {
+        "korean": "호텔",
+        "vietnamese": "Khách sạn",
+        "audio": "tu-vung-51-1.mp3"
+    },
+    {
+        "korean": "비품실",
+        "vietnamese": "Phòng cấp đồ",
+        "audio": "tu-vung-51-2.mp3"
+    },
+    {
+        "korean": "물품",
+        "vietnamese": "Vật dụng",
+        "audio": "tu-vung-51-3.mp3"
+    },
+    {
+        "korean": "린넨실",
+        "vietnamese": "Phòng đựng khăn áo",
+        "audio": "tu-vung-51-4.mp3"
+    },
+    {
+        "korean": "수건",
+        "vietnamese": "Khăn mặt",
+        "audio": "tu-vung-51-5.mp3"
+    },
+    {
+        "korean": "목욕가운",
+        "vietnamese": "Áo choàng tắm",
+        "audio": "tu-vung-51-6.mp3"
+    },
+    {
+        "korean": "시트",
+        "vietnamese": "Ga giường(tấm lót)",
+        "audio": "tu-vung-51-7.mp3"
+    },
+    {
+        "korean": "청소도구함",
+        "vietnamese": "Tủ dụng cụ vệ sinh",
+        "audio": "tu-vung-51-8.mp3"
+    },
+    {
+        "korean": "방향제",
+        "vietnamese": "Nước hoa xịt phòng",
+        "audio": "tu-vung-51-9.mp3"
+    },
+    {
+        "korean": "마른걸레",
+        "vietnamese": "Giẻ lau khô",
+        "audio": "tu-vung-51-10.mp3"
+    },
+    {
+        "korean": "대걸레",
+        "vietnamese": "Cây lau nhà",
+        "audio": "tu-vung-51-11.mp3"
+    },
+    {
+        "korean": "플러그",
+        "vietnamese": "Phích cắm",
+        "audio": "tu-vung-51-12.mp3"
+    },
+    {
+        "korean": "꽂다",
+        "vietnamese": "Cắm",
+        "audio": "tu-vung-51-13.mp3"
+    },
+    {
+        "korean": "빼다",
+        "vietnamese": "Rút",
+        "audio": "tu-vung-51-14.mp3"
+    },
+    {
+        "korean": "대다",
+        "vietnamese": "Chạm",
+        "audio": "tu-vung-51-15.mp3"
+    },
+    {
+        "korean": "떼다",
+        "vietnamese": "Tháo, tách ra",
+        "audio": "tu-vung-51-16.mp3"
+    },
+    {
+        "korean": "커튼을 치다",
+        "vietnamese": "Kéo rèm",
+        "audio": "tu-vung-51-17.mp3"
+    },
+    {
+        "korean": "하우스키핑",
+        "vietnamese": "Dọn phòng",
+        "audio": "tu-vung-51-18.mp3"
+    },
+    {
+        "korean": "카트",
+        "vietnamese": "Xe đẩy",
+        "audio": "tu-vung-51-19.mp3"
+    },
+    {
+        "korean": "소모품",
+        "vietnamese": "Đồ dùng",
+        "audio": "tu-vung-51-20.mp3"
+    },
+    {
+        "korean": "어메니티",
+        "vietnamese": "Tiện nghi",
+        "audio": "tu-vung-51-21.mp3"
+    },
+    {
+        "korean": "손잡이",
+        "vietnamese": "Tay cầm",
+        "audio": "tu-vung-51-22.mp3"
+    },
+    {
+        "korean": "생수",
+        "vietnamese": "Nước suối",
+        "audio": "tu-vung-51-23.mp3"
+    },
+    {
+        "korean": "수거함",
+        "vietnamese": "Hòm thu gom",
+        "audio": "tu-vung-51-24.mp3"
+    },
+    {
+        "korean": "샴푸",
+        "vietnamese": "Dầu gội",
+        "audio": "tu-vung-51-25.mp3"
+    },
+    {
+        "korean": "린스",
+        "vietnamese": "Dầu xả",
+        "audio": "tu-vung-51-26.mp3"
+    },
+    {
+        "korean": "바디워시",
+        "vietnamese": "Sữa tắm",
+        "audio": "tu-vung-51-27.mp3"
+    },
+    {
+        "korean": "비누",
+        "vietnamese": "Xà phòng",
+        "audio": "tu-vung-51-28.mp3"
+    },
+    {
+        "korean": "치약",
+        "vietnamese": "Kem đánh răng",
+        "audio": "tu-vung-51-29.mp3"
+    },
+    {
+        "korean": "칫솔",
+        "vietnamese": "Bàn chải đánh răng",
+        "audio": "tu-vung-51-30.mp3"
+    },
+    {
+        "korean": "전화선",
+        "vietnamese": "Dây điện thoại",
+        "audio": "tu-vung-51-31.mp3"
+    },
+    {
+        "korean": "객실",
+        "vietnamese": "Phòng khách",
+        "audio": "tu-vung-51-32.mp3"
+    },
+    {
+        "korean": "전동식",
+        "vietnamese": "Động lực điện(chạy điện)",
+        "audio": "tu-vung-51-33.mp3"
+    },
+    {
+        "korean": "커튼",
+        "vietnamese": "Rèm cửa",
+        "audio": "tu-vung-51-34.mp3"
+    },
+    {
+        "korean": "스위치를 켜다",
+        "vietnamese": "Bật công tắc",
+        "audio": "tu-vung-51-35.mp3"
+    },
+    {
+        "korean": "스위치를 끄다",
+        "vietnamese": "Tắt công tắc",
+        "audio": "tu-vung-51-36.mp3"
+    },
+    {
+        "korean": "시트를 교체하다",
+        "vietnamese": "Thay ga",
+        "audio": "tu-vung-51-37.mp3"
+    },
+    {
+        "korean": "쓰레기를 줍다",
+        "vietnamese": "Nhặt rác",
+        "audio": "tu-vung-51-38.mp3"
+    },
+    {
+        "korean": "가져다 놓다",
+        "vietnamese": "Đặt lên",
+        "audio": "tu-vung-51-39.mp3"
+    },
+    {
+        "korean": "전등",
+        "vietnamese": "Đèn điện",
+        "audio": "tu-vung-51-40.mp3"
+    },
+    {
+        "korean": "화장대",
+        "vietnamese": "Bàn trang điểm",
+        "audio": "tu-vung-51-41.mp3"
+    },
+    {
+        "korean": "이불보",
+        "vietnamese": "Vỏ chăn",
+        "audio": "tu-vung-51-42.mp3"
+    },
+    {
+        "korean": "얼룩",
+        "vietnamese": "Vết ố",
+        "audio": "tu-vung-51-43.mp3"
+    },
+    {
+        "korean": "침대보",
+        "vietnamese": "Ga giường",
+        "audio": "tu-vung-51-44.mp3"
+    },
+    {
+        "korean": "미니바",
+        "vietnamese": "Mini bar",
+        "audio": "tu-vung-51-45.mp3"
+    },
+    {
+        "korean": "용품",
+        "vietnamese": "Đồ dùng",
+        "audio": "tu-vung-51-46.mp3"
+    },
+    {
+        "korean": "리모컨",
+        "vietnamese": "Điều khiển",
+        "audio": "tu-vung-51-47.mp3"
+    },
+    {
+        "korean": "헤어드라이어",
+        "vietnamese": "Máy sấy tóc",
+        "audio": "tu-vung-51-48.mp3"
+    },
+    {
+        "korean": "슬리퍼",
+        "vietnamese": "Dép lê",
+        "audio": "tu-vung-51-49.mp3"
+    },
+    {
+        "korean": "옷걸이",
+        "vietnamese": "Móc quần áo",
+        "audio": "tu-vung-51-50.mp3"
+    },
+    {
+        "korean": "스낵",
+        "vietnamese": "Đồ ăn vặt(snacks)",
+        "audio": "tu-vung-51-51.mp3"
+    },
+    {
+        "korean": "DND 카드",
+        "vietnamese": "Thẻ không làm phiền",
+        "audio": "tu-vung-51-52.mp3"
+    },
+    {
+        "korean": "메이드 보고서",
+        "vietnamese": "Báo cáo của tạp vụ",
+        "audio": "tu-vung-51-53.mp3"
+    },
+    {
+        "korean": "메이크업 카드",
+        "vietnamese": "Thẻ yêu cầu",
+        "audio": "tu-vung-51-54.mp3"
+    }
+]

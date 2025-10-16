@@ -1,0 +1,232 @@
+[
+    {
+        "korean": "근로 조건",
+        "vietnamese": "Điều kiện lao động",
+        "audio": "tu-vung-58-1.mp3"
+    },
+    {
+        "korean": "근로 계약",
+        "vietnamese": "Hợp đồng lao động",
+        "audio": "tu-vung-58-2.mp3"
+    },
+    {
+        "korean": "수습 기간",
+        "vietnamese": "Thời gian thử việc",
+        "audio": "tu-vung-58-3.mp3"
+    },
+    {
+        "korean": "근로 시간",
+        "vietnamese": "Thời gian làm việc",
+        "audio": "tu-vung-58-4.mp3"
+    },
+    {
+        "korean": "휴게 시간",
+        "vietnamese": "Thời gian nghỉ ngơi",
+        "audio": "tu-vung-58-5.mp3"
+    },
+    {
+        "korean": "임금",
+        "vietnamese": "Tiền lương",
+        "audio": "tu-vung-58-6.mp3"
+    },
+    {
+        "korean": "임급 지급일",
+        "vietnamese": "Ngày trả lương",
+        "audio": "tu-vung-58-7.mp3"
+    },
+    {
+        "korean": "지급 방법",
+        "vietnamese": "Phương pháp trả lương",
+        "audio": "tu-vung-58-8.mp3"
+    },
+    {
+        "korean": "업무 내용",
+        "vietnamese": "Nội dung công việc",
+        "audio": "tu-vung-58-9.mp3"
+    },
+    {
+        "korean": "숙식",
+        "vietnamese": "Ăn ở",
+        "audio": "tu-vung-58-10.mp3"
+    },
+    {
+        "korean": "제공하다",
+        "vietnamese": "Cung cấp, chu cấp",
+        "audio": "tu-vung-58-11.mp3"
+    },
+    {
+        "korean": "부담하다",
+        "vietnamese": "Chịu (trách nhiệm)",
+        "audio": "tu-vung-58-12.mp3"
+    },
+    {
+        "korean": "월급이 들어오다",
+        "vietnamese": "Lương vào",
+        "audio": "tu-vung-58-13.mp3"
+    },
+    {
+        "korean": "궁금하다",
+        "vietnamese": "Thắc mắc",
+        "audio": "tu-vung-58-14.mp3"
+    },
+    {
+        "korean": "야간",
+        "vietnamese": "Làm đêm",
+        "audio": "tu-vung-58-15.mp3"
+    },
+    {
+        "korean": "휴일",
+        "vietnamese": "Ngày nghỉ",
+        "audio": "tu-vung-58-16.mp3"
+    },
+    {
+        "korean": "기본",
+        "vietnamese": "Cơ bản",
+        "audio": "tu-vung-58-17.mp3"
+    },
+    {
+        "korean": "수당",
+        "vietnamese": "Trợ cấp",
+        "audio": "tu-vung-58-18.mp3"
+    },
+    {
+        "korean": "급여 명세서",
+        "vietnamese": "Bảng lương",
+        "audio": "tu-vung-58-19.mp3"
+    },
+    {
+        "korean": "성명",
+        "vietnamese": "Tên",
+        "audio": "tu-vung-58-20.mp3"
+    },
+    {
+        "korean": "사번\/직급",
+        "vietnamese": "Mã nhân viên \/ Chức vụ",
+        "audio": "tu-vung-58-21.mp3"
+    },
+    {
+        "korean": "부서",
+        "vietnamese": "Bộ phận",
+        "audio": "tu-vung-58-22.mp3"
+    },
+    {
+        "korean": "지급 내역",
+        "vietnamese": "Nội dung chi trả",
+        "audio": "tu-vung-58-23.mp3"
+    },
+    {
+        "korean": "지급액",
+        "vietnamese": "Số tiền chi trả",
+        "audio": "tu-vung-58-24.mp3"
+    },
+    {
+        "korean": "공제 내역",
+        "vietnamese": "Nội dung khấu trừ",
+        "audio": "tu-vung-58-25.mp3"
+    },
+    {
+        "korean": "공제액",
+        "vietnamese": "Số tiền khấu trừ",
+        "audio": "tu-vung-58-26.mp3"
+    },
+    {
+        "korean": "기본급",
+        "vietnamese": "Lương cơ bản",
+        "audio": "tu-vung-58-27.mp3"
+    },
+    {
+        "korean": "연장 근로 수당",
+        "vietnamese": "Trợ cấp làm thêm",
+        "audio": "tu-vung-58-28.mp3"
+    },
+    {
+        "korean": "야간 근로 수당",
+        "vietnamese": "Trợ cấp làm đêm",
+        "audio": "tu-vung-58-29.mp3"
+    },
+    {
+        "korean": "휴일 근로 수당",
+        "vietnamese": "Trợ cấp làm ngày nghỉ",
+        "audio": "tu-vung-58-30.mp3"
+    },
+    {
+        "korean": "식대",
+        "vietnamese": "Tiền ăn",
+        "audio": "tu-vung-58-31.mp3"
+    },
+    {
+        "korean": "상여금",
+        "vietnamese": "Tiền thưởng",
+        "audio": "tu-vung-58-32.mp3"
+    },
+    {
+        "korean": "지급액 합계",
+        "vietnamese": "Tổng tiền chi trả",
+        "audio": "tu-vung-58-33.mp3"
+    },
+    {
+        "korean": "소득세",
+        "vietnamese": "Thuế thu nhập",
+        "audio": "tu-vung-58-34.mp3"
+    },
+    {
+        "korean": "주민세",
+        "vietnamese": "Thuế nhà ở",
+        "audio": "tu-vung-58-35.mp3"
+    },
+    {
+        "korean": "국민연금",
+        "vietnamese": "Chế độ lương hưu",
+        "audio": "tu-vung-58-36.mp3"
+    },
+    {
+        "korean": "건강보험",
+        "vietnamese": "Bảo hiểm y tế",
+        "audio": "tu-vung-58-37.mp3"
+    },
+    {
+        "korean": "고용보험",
+        "vietnamese": "Bảo hiểm việc làm",
+        "audio": "tu-vung-58-38.mp3"
+    },
+    {
+        "korean": "연말정산 환급",
+        "vietnamese": "Hoàn thuế cuối năm",
+        "audio": "tu-vung-58-39.mp3"
+    },
+    {
+        "korean": "공제액 합계",
+        "vietnamese": "Tổng tiền khấu trừ",
+        "audio": "tu-vung-58-40.mp3"
+    },
+    {
+        "korean": "실수령액",
+        "vietnamese": "Tiền thực lĩnh",
+        "audio": "tu-vung-58-41.mp3"
+    },
+    {
+        "korean": "실제로",
+        "vietnamese": "Thực tế",
+        "audio": "tu-vung-58-42.mp3"
+    },
+    {
+        "korean": "세금",
+        "vietnamese": "Tiền thuế",
+        "audio": "tu-vung-58-43.mp3"
+    },
+    {
+        "korean": "보험",
+        "vietnamese": "Bảo hiểm",
+        "audio": "tu-vung-58-44.mp3"
+    },
+    {
+        "korean": "금액",
+        "vietnamese": "Số tiền",
+        "audio": "tu-vung-58-45.mp3"
+    },
+    {
+        "korean": "떨어지다",
+        "vietnamese": "Rơi, hết",
+        "audio": "tu-vung-58-46.mp3"
+    }
+]

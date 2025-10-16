@@ -1,0 +1,352 @@
+[
+    {
+        "korean": "산업 안전",
+        "vietnamese": "An toàn công nghiệp",
+        "audio": "tu-vung-53-1.mp3"
+    },
+    {
+        "korean": "보건",
+        "vietnamese": "Sức khỏe",
+        "audio": "tu-vung-53-2.mp3"
+    },
+    {
+        "korean": "경고 표지",
+        "vietnamese": "Biển báo",
+        "audio": "tu-vung-53-3.mp3"
+    },
+    {
+        "korean": "일반 경고표지",
+        "vietnamese": "Biển báo thường",
+        "audio": "tu-vung-53-4.mp3"
+    },
+    {
+        "korean": "위험하다",
+        "vietnamese": "Nguy hiểm",
+        "audio": "tu-vung-53-5.mp3"
+    },
+    {
+        "korean": "조심하다",
+        "vietnamese": "Cẩn thận",
+        "audio": "tu-vung-53-6.mp3"
+    },
+    {
+        "korean": "방사능",
+        "vietnamese": "Phóng xạ",
+        "audio": "tu-vung-53-7.mp3"
+    },
+    {
+        "korean": "물질",
+        "vietnamese": "Chất, vật chất",
+        "audio": "tu-vung-53-8.mp3"
+    },
+    {
+        "korean": "이온화",
+        "vietnamese": "I-ôn hóa",
+        "audio": "tu-vung-53-9.mp3"
+    },
+    {
+        "korean": "방사선",
+        "vietnamese": "Tia phóng xạ",
+        "audio": "tu-vung-53-10.mp3"
+    },
+    {
+        "korean": "바닥면 장애물",
+        "vietnamese": "Chướng ngại vật ở sàn",
+        "audio": "tu-vung-53-11.mp3"
+    },
+    {
+        "korean": "추락",
+        "vietnamese": "Rơi ngã",
+        "audio": "tu-vung-53-12.mp3"
+    },
+    {
+        "korean": "전기",
+        "vietnamese": "Điện",
+        "audio": "tu-vung-53-13.mp3"
+    },
+    {
+        "korean": "미끄러운 표면",
+        "vietnamese": "Bề mặt trơn",
+        "audio": "tu-vung-53-14.mp3"
+    },
+    {
+        "korean": "떨어지다",
+        "vietnamese": "Ngã",
+        "audio": "tu-vung-53-15.mp3"
+    },
+    {
+        "korean": "허리",
+        "vietnamese": "Thắt lưng",
+        "audio": "tu-vung-53-16.mp3"
+    },
+    {
+        "korean": "머리",
+        "vietnamese": "Đầu",
+        "audio": "tu-vung-53-17.mp3"
+    },
+    {
+        "korean": "다치다",
+        "vietnamese": "Bị thương",
+        "audio": "tu-vung-53-18.mp3"
+    },
+    {
+        "korean": "감전되다",
+        "vietnamese": "Bị điện giật",
+        "audio": "tu-vung-53-19.mp3"
+    },
+    {
+        "korean": "미끄럽다",
+        "vietnamese": "Trơn",
+        "audio": "tu-vung-53-20.mp3"
+    },
+    {
+        "korean": "생물학적 위해",
+        "vietnamese": "Nguy hại sinh học",
+        "audio": "tu-vung-53-21.mp3"
+    },
+    {
+        "korean": "지게차",
+        "vietnamese": "Xe nâng",
+        "audio": "tu-vung-53-22.mp3"
+    },
+    {
+        "korean": "독성 물질",
+        "vietnamese": "Chất độc",
+        "audio": "tu-vung-53-23.mp3"
+    },
+    {
+        "korean": "뜨거운 표면",
+        "vietnamese": "Bề mặt nóng",
+        "audio": "tu-vung-53-24.mp3"
+    },
+    {
+        "korean": "생물",
+        "vietnamese": "Sinh vật",
+        "audio": "tu-vung-53-25.mp3"
+    },
+    {
+        "korean": "세균",
+        "vietnamese": "Vi khuẩn",
+        "audio": "tu-vung-53-26.mp3"
+    },
+    {
+        "korean": "바이러스",
+        "vietnamese": "Virus",
+        "audio": "tu-vung-53-27.mp3"
+    },
+    {
+        "korean": "유출되다",
+        "vietnamese": "Bị phát tán",
+        "audio": "tu-vung-53-28.mp3"
+    },
+    {
+        "korean": "지게차",
+        "vietnamese": "Xe nâng",
+        "audio": "tu-vung-53-29.mp3"
+    },
+    {
+        "korean": "산업",
+        "vietnamese": "Công nghiệp",
+        "audio": "tu-vung-53-30.mp3"
+    },
+    {
+        "korean": "운반기계",
+        "vietnamese": "Máy móc vận chuyển",
+        "audio": "tu-vung-53-31.mp3"
+    },
+    {
+        "korean": "표면",
+        "vietnamese": "Bề mặt",
+        "audio": "tu-vung-53-32.mp3"
+    },
+    {
+        "korean": "뜨겁다",
+        "vietnamese": "Nóng",
+        "audio": "tu-vung-53-33.mp3"
+    },
+    {
+        "korean": "인화 물질",
+        "vietnamese": "Chất dễ cháy",
+        "audio": "tu-vung-53-34.mp3"
+    },
+    {
+        "korean": "낙하물",
+        "vietnamese": "Vật thể rơi",
+        "audio": "tu-vung-53-35.mp3"
+    },
+    {
+        "korean": "불",
+        "vietnamese": "Lửa",
+        "audio": "tu-vung-53-36.mp3"
+    },
+    {
+        "korean": "붙다",
+        "vietnamese": "Dính, bén",
+        "audio": "tu-vung-53-37.mp3"
+    },
+    {
+        "korean": "물체",
+        "vietnamese": "Vật thể",
+        "audio": "tu-vung-53-38.mp3"
+    },
+    {
+        "korean": "그냥",
+        "vietnamese": "Cứ thế",
+        "audio": "tu-vung-53-39.mp3"
+    },
+    {
+        "korean": "상황",
+        "vietnamese": "Tình hình",
+        "audio": "tu-vung-53-40.mp3"
+    },
+    {
+        "korean": "알리다",
+        "vietnamese": "Cho biết, thông báo",
+        "audio": "tu-vung-53-41.mp3"
+    },
+    {
+        "korean": "취급하다",
+        "vietnamese": "Xử lý, cư xử",
+        "audio": "tu-vung-53-42.mp3"
+    },
+    {
+        "korean": "데다",
+        "vietnamese": "Bị bỏng",
+        "audio": "tu-vung-53-43.mp3"
+    },
+    {
+        "korean": "금지 표지",
+        "vietnamese": "Biển báo cấm",
+        "audio": "tu-vung-53-44.mp3"
+    },
+    {
+        "korean": "일반적인",
+        "vietnamese": "Thông thường",
+        "audio": "tu-vung-53-45.mp3"
+    },
+    {
+        "korean": "금연",
+        "vietnamese": "Cấm hút thuốc",
+        "audio": "tu-vung-53-46.mp3"
+    },
+    {
+        "korean": "착화 금지",
+        "vietnamese": "Cấm đốt lửa",
+        "audio": "tu-vung-53-47.mp3"
+    },
+    {
+        "korean": "화재",
+        "vietnamese": "Hỏa hoạn",
+        "audio": "tu-vung-53-48.mp3"
+    },
+    {
+        "korean": "발화원",
+        "vietnamese": "Nguồn gây cháy",
+        "audio": "tu-vung-53-49.mp3"
+    },
+    {
+        "korean": "발연",
+        "vietnamese": "Khói",
+        "audio": "tu-vung-53-50.mp3"
+    },
+    {
+        "korean": "담배",
+        "vietnamese": "Thuốc lá",
+        "audio": "tu-vung-53-51.mp3"
+    },
+    {
+        "korean": "피우다",
+        "vietnamese": "Hút, đốt",
+        "audio": "tu-vung-53-52.mp3"
+    },
+    {
+        "korean": "통행 금지",
+        "vietnamese": "Cấm bộ hành",
+        "audio": "tu-vung-53-53.mp3"
+    },
+    {
+        "korean": "지나가다",
+        "vietnamese": "Đi qua",
+        "audio": "tu-vung-53-54.mp3"
+    },
+    {
+        "korean": "장갑",
+        "vietnamese": "Găng tay",
+        "audio": "tu-vung-53-55.mp3"
+    },
+    {
+        "korean": "착용하다",
+        "vietnamese": "Dùng, mang, đeo",
+        "audio": "tu-vung-53-56.mp3"
+    },
+    {
+        "korean": "끼다",
+        "vietnamese": "Đeo, gài, gắn, đính",
+        "audio": "tu-vung-53-57.mp3"
+    },
+    {
+        "korean": "차량",
+        "vietnamese": "Xe cơ giới",
+        "audio": "tu-vung-53-58.mp3"
+    },
+    {
+        "korean": "접근",
+        "vietnamese": "Tiếp cận",
+        "audio": "tu-vung-53-59.mp3"
+    },
+    {
+        "korean": "스위치",
+        "vietnamese": "Công tắc",
+        "audio": "tu-vung-53-60.mp3"
+    },
+    {
+        "korean": "상태",
+        "vietnamese": "Tình trạng",
+        "audio": "tu-vung-53-61.mp3"
+    },
+    {
+        "korean": "휴대용",
+        "vietnamese": "Cầm tay",
+        "audio": "tu-vung-53-62.mp3"
+    },
+    {
+        "korean": "그라인더",
+        "vietnamese": "Máy mài",
+        "audio": "tu-vung-53-63.mp3"
+    },
+    {
+        "korean": "승강기",
+        "vietnamese": "Thang máy",
+        "audio": "tu-vung-53-64.mp3"
+    },
+    {
+        "korean": "승객용",
+        "vietnamese": "Riêng cho hành khách",
+        "audio": "tu-vung-53-65.mp3"
+    },
+    {
+        "korean": "야외용",
+        "vietnamese": "Dùng bên ngoài",
+        "audio": "tu-vung-53-66.mp3"
+    },
+    {
+        "korean": "신발",
+        "vietnamese": "Giầy dép",
+        "audio": "tu-vung-53-67.mp3"
+    },
+    {
+        "korean": "만지지 마시오",
+        "vietnamese": "Đừng sờ",
+        "audio": "tu-vung-53-68.mp3"
+    },
+    {
+        "korean": "기대지 마시오",
+        "vietnamese": "Đừng tựa",
+        "audio": "tu-vung-53-69.mp3"
+    },
+    {
+        "korean": "통로",
+        "vietnamese": "Lối đi",
+        "audio": "tu-vung-53-70.mp3"
+    }
+]

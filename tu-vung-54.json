@@ -1,0 +1,297 @@
+[
+    {
+        "korean": "흡연",
+        "vietnamese": "Hút thuốc",
+        "audio": "tu-vung-54-1.mp3"
+    },
+    {
+        "korean": "음식물",
+        "vietnamese": "Đồ ăn",
+        "audio": "tu-vung-54-2.mp3"
+    },
+    {
+        "korean": "섭취",
+        "vietnamese": "Ăn, tiêu thụ",
+        "audio": "tu-vung-54-3.mp3"
+    },
+    {
+        "korean": "환기",
+        "vietnamese": "Thông gió",
+        "audio": "tu-vung-54-4.mp3"
+    },
+    {
+        "korean": "장치",
+        "vietnamese": "Trang bị, hệ thống",
+        "audio": "tu-vung-54-5.mp3"
+    },
+    {
+        "korean": "작업 후에",
+        "vietnamese": "Sau khi làm việc",
+        "audio": "tu-vung-54-6.mp3"
+    },
+    {
+        "korean": "샤워하다",
+        "vietnamese": "Tắm",
+        "audio": "tu-vung-54-7.mp3"
+    },
+    {
+        "korean": "화학물질",
+        "vietnamese": "Chất hóa học",
+        "audio": "tu-vung-54-8.mp3"
+    },
+    {
+        "korean": "석면",
+        "vietnamese": "Amiăng(gây ung thư)",
+        "audio": "tu-vung-54-9.mp3"
+    },
+    {
+        "korean": "개인",
+        "vietnamese": "Cá nhân",
+        "audio": "tu-vung-54-10.mp3"
+    },
+    {
+        "korean": "보호구",
+        "vietnamese": "Dụng cụ bảo hộ",
+        "audio": "tu-vung-54-11.mp3"
+    },
+    {
+        "korean": "출입 금지",
+        "vietnamese": "Cấm ra vào",
+        "audio": "tu-vung-54-12.mp3"
+    },
+    {
+        "korean": "장소",
+        "vietnamese": "Nơi, chỗ",
+        "audio": "tu-vung-54-13.mp3"
+    },
+    {
+        "korean": "들어가다",
+        "vietnamese": "Đi vào",
+        "audio": "tu-vung-54-14.mp3"
+    },
+    {
+        "korean": "공사중",
+        "vietnamese": "Đang thi công",
+        "audio": "tu-vung-54-15.mp3"
+    },
+    {
+        "korean": "관계자",
+        "vietnamese": "Người liên quan",
+        "audio": "tu-vung-54-16.mp3"
+    },
+    {
+        "korean": "외",
+        "vietnamese": "Bên ngoài, ngoài ra",
+        "audio": "tu-vung-54-17.mp3"
+    },
+    {
+        "korean": "소음",
+        "vietnamese": "Âm thanh",
+        "audio": "tu-vung-54-18.mp3"
+    },
+    {
+        "korean": "귀마개",
+        "vietnamese": "Nút bịt tai",
+        "audio": "tu-vung-54-19.mp3"
+    },
+    {
+        "korean": "밀폐공간",
+        "vietnamese": "Không gian kín(hẹp)",
+        "audio": "tu-vung-54-20.mp3"
+    },
+    {
+        "korean": "산소",
+        "vietnamese": "Ôxy",
+        "audio": "tu-vung-54-21.mp3"
+    },
+    {
+        "korean": "부족 시",
+        "vietnamese": "Khi thiếu",
+        "audio": "tu-vung-54-22.mp3"
+    },
+    {
+        "korean": "중단하다",
+        "vietnamese": "Ngừng, nghỉ",
+        "audio": "tu-vung-54-23.mp3"
+    },
+    {
+        "korean": "대피하다",
+        "vietnamese": "Tránh, di tản",
+        "audio": "tu-vung-54-24.mp3"
+    },
+    {
+        "korean": "수칙을 지키다",
+        "vietnamese": "Tuân thủ quy tắc",
+        "audio": "tu-vung-54-25.mp3"
+    },
+    {
+        "korean": "수칙을 어기다",
+        "vietnamese": "Vi phạm quy tắc",
+        "audio": "tu-vung-54-26.mp3"
+    },
+    {
+        "korean": "산업 재해",
+        "vietnamese": "Tai nạn công nghiệp",
+        "audio": "tu-vung-54-27.mp3"
+    },
+    {
+        "korean": "예방",
+        "vietnamese": "Đề phòng",
+        "audio": "tu-vung-54-28.mp3"
+    },
+    {
+        "korean": "준수",
+        "vietnamese": "Tuân thủ",
+        "audio": "tu-vung-54-29.mp3"
+    },
+    {
+        "korean": "정비",
+        "vietnamese": "Bảo dưỡng, bảo trì",
+        "audio": "tu-vung-54-30.mp3"
+    },
+    {
+        "korean": "수리",
+        "vietnamese": "Sửa chữa",
+        "audio": "tu-vung-54-31.mp3"
+    },
+    {
+        "korean": "교체",
+        "vietnamese": "Thay thế",
+        "audio": "tu-vung-54-32.mp3"
+    },
+    {
+        "korean": "안전보건교육",
+        "vietnamese": "Giáo dục an toàn s-khỏe",
+        "audio": "tu-vung-54-33.mp3"
+    },
+    {
+        "korean": "실시",
+        "vietnamese": "Thực thi, thực hiện",
+        "audio": "tu-vung-54-34.mp3"
+    },
+    {
+        "korean": "점검",
+        "vietnamese": "Kiểm tra",
+        "audio": "tu-vung-54-35.mp3"
+    },
+    {
+        "korean": "전원 차단",
+        "vietnamese": "Ngắt nguồn",
+        "audio": "tu-vung-54-36.mp3"
+    },
+    {
+        "korean": "스위치",
+        "vietnamese": "Công tắc",
+        "audio": "tu-vung-54-37.mp3"
+    },
+    {
+        "korean": "잠금장치",
+        "vietnamese": "Thiết bị khóa",
+        "audio": "tu-vung-54-38.mp3"
+    },
+    {
+        "korean": "설치",
+        "vietnamese": "Lắp đặt",
+        "audio": "tu-vung-54-39.mp3"
+    },
+    {
+        "korean": "안전보건표지판",
+        "vietnamese": "Biển báo an toàn s-khỏe",
+        "audio": "tu-vung-54-40.mp3"
+    },
+    {
+        "korean": "끼일 수 있는 곳",
+        "vietnamese": "Nơi có thể bị kẹp",
+        "audio": "tu-vung-54-41.mp3"
+    },
+    {
+        "korean": "방호덮개",
+        "vietnamese": "Vỏ bảo vệ, nắp bảo vệ",
+        "audio": "tu-vung-54-42.mp3"
+    },
+    {
+        "korean": "방호장치",
+        "vietnamese": "Thiết bị bảo vệ",
+        "audio": "tu-vung-54-43.mp3"
+    },
+    {
+        "korean": "해체",
+        "vietnamese": "Tháo dỡ",
+        "audio": "tu-vung-54-44.mp3"
+    },
+    {
+        "korean": "동작",
+        "vietnamese": "Vận hành, chạy",
+        "audio": "tu-vung-54-45.mp3"
+    },
+    {
+        "korean": "접촉",
+        "vietnamese": "Tiếp xúc",
+        "audio": "tu-vung-54-46.mp3"
+    },
+    {
+        "korean": "떨어질 수 있는 곳",
+        "vietnamese": "Nơi có thể bị ngã",
+        "audio": "tu-vung-54-47.mp3"
+    },
+    {
+        "korean": "작업 발판",
+        "vietnamese": "Sàn làm việc (tấm giáo để đi lại làm việc)",
+        "audio": "tu-vung-54-48.mp3"
+    },
+    {
+        "korean": "안전 난간",
+        "vietnamese": "Lan can an toàn",
+        "audio": "tu-vung-54-49.mp3"
+    },
+    {
+        "korean": "개구부",
+        "vietnamese": "Phần hở, bộ phận mở",
+        "audio": "tu-vung-54-50.mp3"
+    },
+    {
+        "korean": "안전대",
+        "vietnamese": "Dây an toàn",
+        "audio": "tu-vung-54-51.mp3"
+    },
+    {
+        "korean": "개인 보호구",
+        "vietnamese": "Dụng cụ bảo hộ cá nhân",
+        "audio": "tu-vung-54-52.mp3"
+    },
+    {
+        "korean": "안전모",
+        "vietnamese": "Mũ bảo hộ",
+        "audio": "tu-vung-54-53.mp3"
+    },
+    {
+        "korean": "안전화",
+        "vietnamese": "Giầy bảo hộ",
+        "audio": "tu-vung-54-54.mp3"
+    },
+    {
+        "korean": "끼임",
+        "vietnamese": "Bị kẹp",
+        "audio": "tu-vung-54-55.mp3"
+    },
+    {
+        "korean": "사고를 막다",
+        "vietnamese": "Ngăn chặn tai nạn",
+        "audio": "tu-vung-54-56.mp3"
+    },
+    {
+        "korean": "사고를 줄이다",
+        "vietnamese": "Giảm thiểu tai nạn",
+        "audio": "tu-vung-54-57.mp3"
+    },
+    {
+        "korean": "조작하다",
+        "vietnamese": "Thao tác, vận hành",
+        "audio": "tu-vung-54-58.mp3"
+    },
+    {
+        "korean": "반드시",
+        "vietnamese": "Nhất định",
+        "audio": "tu-vung-54-59.mp3"
+    }
+]

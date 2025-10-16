@@ -1,0 +1,262 @@
+[
+    {
+        "korean": "소방 장비",
+        "vietnamese": "Thiết bị cứu hỏa",
+        "audio": "tu-vung-56-1.mp3"
+    },
+    {
+        "korean": "소화기",
+        "vietnamese": "Bình cứu hỏa",
+        "audio": "tu-vung-56-2.mp3"
+    },
+    {
+        "korean": "소화전(소방 호스릴)",
+        "vietnamese": "Vòi cứu hỏa",
+        "audio": "tu-vung-56-3.mp3"
+    },
+    {
+        "korean": "소방 사다리",
+        "vietnamese": "Thang cứu hỏa",
+        "audio": "tu-vung-56-4.mp3"
+    },
+    {
+        "korean": "화재 경보기",
+        "vietnamese": "Cảnh báo cháy",
+        "audio": "tu-vung-56-5.mp3"
+    },
+    {
+        "korean": "화재 비상 전화",
+        "vietnamese": "Điện thoại cứu hỏa khẩn",
+        "audio": "tu-vung-56-6.mp3"
+    },
+    {
+        "korean": "방화문",
+        "vietnamese": "Cửa chống lửa",
+        "audio": "tu-vung-56-7.mp3"
+    },
+    {
+        "korean": "대응 요령",
+        "vietnamese": "Phương pháp ứng phó",
+        "audio": "tu-vung-56-8.mp3"
+    },
+    {
+        "korean": "초기",
+        "vietnamese": "Ban đầu",
+        "audio": "tu-vung-56-9.mp3"
+    },
+    {
+        "korean": "상황별",
+        "vietnamese": "Theo tình hình",
+        "audio": "tu-vung-56-10.mp3"
+    },
+    {
+        "korean": "감전",
+        "vietnamese": "Điện giật",
+        "audio": "tu-vung-56-11.mp3"
+    },
+    {
+        "korean": "질식",
+        "vietnamese": "Ngạt thở",
+        "audio": "tu-vung-56-12.mp3"
+    },
+    {
+        "korean": "작업 중지",
+        "vietnamese": "Dừng việc",
+        "audio": "tu-vung-56-13.mp3"
+    },
+    {
+        "korean": "대피",
+        "vietnamese": "Tránh, thoát nạn",
+        "audio": "tu-vung-56-14.mp3"
+    },
+    {
+        "korean": "화재",
+        "vietnamese": "Hỏa hoạn",
+        "audio": "tu-vung-56-15.mp3"
+    },
+    {
+        "korean": "초기 진화",
+        "vietnamese": "Dập lửa sớm",
+        "audio": "tu-vung-56-16.mp3"
+    },
+    {
+        "korean": "무너짐",
+        "vietnamese": "Sụp đổ",
+        "audio": "tu-vung-56-17.mp3"
+    },
+    {
+        "korean": "기계 재해",
+        "vietnamese": "Tai nạn máy móc",
+        "audio": "tu-vung-56-18.mp3"
+    },
+    {
+        "korean": "기계 정지",
+        "vietnamese": "Dừng máy",
+        "audio": "tu-vung-56-19.mp3"
+    },
+    {
+        "korean": "유해 물질 유출",
+        "vietnamese": "Rò rỉ chất nguy hại",
+        "audio": "tu-vung-56-20.mp3"
+    },
+    {
+        "korean": "밸브 차단",
+        "vietnamese": "Khóa van",
+        "audio": "tu-vung-56-21.mp3"
+    },
+    {
+        "korean": "호흡기",
+        "vietnamese": "Bộ phận hô hấp",
+        "audio": "tu-vung-56-22.mp3"
+    },
+    {
+        "korean": "피부",
+        "vietnamese": "Da",
+        "audio": "tu-vung-56-23.mp3"
+    },
+    {
+        "korean": "인화성",
+        "vietnamese": "Chất dễ cháy",
+        "audio": "tu-vung-56-24.mp3"
+    },
+    {
+        "korean": "산화성",
+        "vietnamese": "Chất ôxy hóa",
+        "audio": "tu-vung-56-25.mp3"
+    },
+    {
+        "korean": "물질 유출",
+        "vietnamese": "Rò rỉ(tràn) chất",
+        "audio": "tu-vung-56-26.mp3"
+    },
+    {
+        "korean": "점화원",
+        "vietnamese": "Nguồn gây cháy",
+        "audio": "tu-vung-56-27.mp3"
+    },
+    {
+        "korean": "삐다",
+        "vietnamese": "Bong gân, chẹo",
+        "audio": "tu-vung-56-28.mp3"
+    },
+    {
+        "korean": "베이다",
+        "vietnamese": "Bị đứt",
+        "audio": "tu-vung-56-29.mp3"
+    },
+    {
+        "korean": "대처",
+        "vietnamese": "Đối phó",
+        "audio": "tu-vung-56-30.mp3"
+    },
+    {
+        "korean": "응급",
+        "vietnamese": "Cấp cứu",
+        "audio": "tu-vung-56-31.mp3"
+    },
+    {
+        "korean": "관리감독자",
+        "vietnamese": "Giám sát",
+        "audio": "tu-vung-56-32.mp3"
+    },
+    {
+        "korean": "상급자",
+        "vietnamese": "Cấp trên",
+        "audio": "tu-vung-56-33.mp3"
+    },
+    {
+        "korean": "소방서",
+        "vietnamese": "Trạm cứu hỏa",
+        "audio": "tu-vung-56-34.mp3"
+    },
+    {
+        "korean": "경찰서",
+        "vietnamese": "Đồn cảnh sát",
+        "audio": "tu-vung-56-35.mp3"
+    },
+    {
+        "korean": "보고하다",
+        "vietnamese": "Báo cáo",
+        "audio": "tu-vung-56-36.mp3"
+    },
+    {
+        "korean": "신고하다",
+        "vietnamese": "Khai báo",
+        "audio": "tu-vung-56-37.mp3"
+    },
+    {
+        "korean": "발생",
+        "vietnamese": "Xảy ra",
+        "audio": "tu-vung-56-38.mp3"
+    },
+    {
+        "korean": "긴급",
+        "vietnamese": "Khẩn cấp",
+        "audio": "tu-vung-56-39.mp3"
+    },
+    {
+        "korean": "응급조치",
+        "vietnamese": "Biện pháp cấp cứu",
+        "audio": "tu-vung-56-40.mp3"
+    },
+    {
+        "korean": "현장 보존",
+        "vietnamese": "Bảo vệ hiện trường",
+        "audio": "tu-vung-56-41.mp3"
+    },
+    {
+        "korean": "원인",
+        "vietnamese": "Nguyên nhân",
+        "audio": "tu-vung-56-42.mp3"
+    },
+    {
+        "korean": "조사",
+        "vietnamese": "Điều tra",
+        "audio": "tu-vung-56-43.mp3"
+    },
+    {
+        "korean": "외치다",
+        "vietnamese": "Hô hoán",
+        "audio": "tu-vung-56-44.mp3"
+    },
+    {
+        "korean": "누르기",
+        "vietnamese": "Nhấn",
+        "audio": "tu-vung-56-45.mp3"
+    },
+    {
+        "korean": "상태",
+        "vietnamese": "Tình trạng, tình hình",
+        "audio": "tu-vung-56-46.mp3"
+    },
+    {
+        "korean": "파악하다",
+        "vietnamese": "Nắm bắt",
+        "audio": "tu-vung-56-47.mp3"
+    },
+    {
+        "korean": "요청하다",
+        "vietnamese": "Yêu cầu",
+        "audio": "tu-vung-56-48.mp3"
+    },
+    {
+        "korean": "처치하다",
+        "vietnamese": "Xử lý",
+        "audio": "tu-vung-56-49.mp3"
+    },
+    {
+        "korean": "설명하다",
+        "vietnamese": "Giải thích",
+        "audio": "tu-vung-56-50.mp3"
+    },
+    {
+        "korean": "사건",
+        "vietnamese": "Sự việc",
+        "audio": "tu-vung-56-51.mp3"
+    },
+    {
+        "korean": "통화하다",
+        "vietnamese": "Đàm thoại",
+        "audio": "tu-vung-56-52.mp3"
+    }
+]
